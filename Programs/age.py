@@ -1,0 +1,6 @@
+yob = input("Enter your birth year: ")
+print(type(yob))
+age = 2024-int(yob)
+print(type(yob))
+print(age)
+print(type(age))
