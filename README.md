@@ -1,2 +1,2 @@
 # learn-python
-I am gonna learn python on the weekends :)
+I am gonna learn python everyday :)
