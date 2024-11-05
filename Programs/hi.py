@@ -1,0 +1,6 @@
+print("Hola")
+print("Namaste")
+print("Vanakkam")
+print("Anneyonghaseyo")
+print("Konnichiwa")
+print("Salve")
