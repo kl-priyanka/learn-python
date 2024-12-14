@@ -1,3 +1,4 @@
+print("Area of a right angle triangle : ")
 a = float(input("Enter base : "))
 b = float(input("Enter height : "))
 area = (a*b)/2
