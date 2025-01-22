@@ -1,0 +1,5 @@
+print("Power")
+a = float(input("Enter the number : "))
+b = float(input("Enter the power : "))
+power = pow(a,b)
+print("The answer is : ", power)
